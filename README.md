@@ -7,7 +7,13 @@ I've recently furthered my education in business and data science in Vancouver.
 This is a repository to showcase skills, share projects and track my progress in data analytics-related topics.
 
 ## Table of Contents
-
+- [About me](https://github.com/sn2873/data_analytics_portfolio/edit/main/README.md#about-me)
+- [Projects](https://github.com/sn2873/data_analytics_portfolio/edit/main/README.md#projects)
+  - SQL
+  - R
+  - Excel
+  - Tableau
+    - [Tableau Vizzes](https://public.tableau.com/app/profile/shay.n7588/vizzes)
 
 ## Projects
 
