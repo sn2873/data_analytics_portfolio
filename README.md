@@ -2,7 +2,7 @@
 ## About me
 Hi, I'm Shay! I have worked in marketing analytics and this experience made me interested in exploring a career in business analytics/data analytics.
 
-I've recently furthered my education in business and data science in Vancouver.
+I've recently furthered my education in business and data analytics in Vancouver.
 
 This is a repository to showcase skills, share projects and track my progress in data analytics-related topics.
 
