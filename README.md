@@ -1,6 +1,6 @@
 # Shay Nezaki - Data Analytics Portfolio
 ## About me
-Hi, I'm Shay! I have worked in marketing analytics and this experience made me interested in exploring a career in business analytics/data analytics.
+Welcome to my portfolio! I have worked in marketing analytics and this experience made me interested in exploring a career in business analytics/data analytics.
 
 I've recently furthered my education in business and data analytics in Vancouver.
 
