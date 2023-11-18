@@ -2,7 +2,7 @@
 ## About me
 Welcome to my portfolio! I'm Shay.
 
-I have worked in marketing analytics and this experience made me interested in exploring a career in business analytics/data analytics.
+My experience in marketing analytics made me interested in exploring a career in business analytics/data analytics.
 
 I've recently furthered my education in business and data analytics in Vancouver.
 
