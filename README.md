@@ -7,8 +7,8 @@ I've recently furthered my education in business and data analytics in Vancouver
 This is a repository to showcase skills, share projects and track my progress in data analytics-related topics.
 
 ## Table of Contents
-- [About me](https://github.com/sn2873/data_analytics_portfolio/edit/main/README.md#about-me)
-- [Projects](https://github.com/sn2873/data_analytics_portfolio/edit/main/README.md#projects)
+- [About me](https://github.com/sn2873/data_analytics_portfolio/blob/main/README.md#about-me)
+- [Projects](https://github.com/sn2873/data_analytics_portfolio/blob/main/README.md#projects)
   - SQL
   - R
   - Excel
