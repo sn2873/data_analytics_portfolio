@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About me](https://github.com/sn2873/data_analytics_portfolio/blob/main/README.md#about-me)
 - [Projects](https://github.com/sn2873/data_analytics_portfolio/blob/main/README.md#projects)
-  - [Bellabeat Case Study]
+  - [Bellabeat Case Study](https://github.com/sn2873/data_analytics_portfolio/tree/6ffd305b6ed6b82ddec63f5f08b98ab18f730d46/bellabeat)
 - [Tableau Vizzes](https://public.tableau.com/app/profile/shay.n7588/vizzes)
 
 ## Projects
