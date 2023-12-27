@@ -13,7 +13,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Projects
 - [Bellabeat Case Study](https://github.com/sn2873/data_analytics_portfolio/tree/6ffd305b6ed6b82ddec63f5f08b98ab18f730d46/bellabeat)
-
+  - Skills: SQL, Spreadsheets, Tableau
+    
 ## Tableau Vizzes
 - [Tableau Vizzes](https://public.tableau.com/app/profile/shay.n7588/vizzes)
 
