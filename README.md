@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Projects
 - [Bellabeat Case Study](https://github.com/sn2873/data_analytics_portfolio/tree/6ffd305b6ed6b82ddec63f5f08b98ab18f730d46/bellabeat)
   - Skills: SQL, Spreadsheets, Tableau
-- [World Population]([https://github.com/sn2873/data_analytics_portfolio/blob/1a8704c872ee6e348f92064301850181bb5604c2/World%20Population/world_population.md](https://github.com/sn2873/data_analytics_portfolio/tree/1a8704c872ee6e348f92064301850181bb5604c2/World%20Population))
+- [World Population](https://github.com/sn2873/data_analytics_portfolio/tree/e041d3ff9e39536c22971eae9bcd6e701c1812c6/World%20Population)
   - Skills: R
     
 ## Tableau Vizzes
