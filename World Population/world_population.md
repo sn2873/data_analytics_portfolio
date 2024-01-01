@@ -299,7 +299,7 @@ ggplot(japan_pop, aes(x=Year, y=Population)) +
   ggtitle("Population in Japan")
 ```
 
-![](world_population_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/sn2873/data_analytics_portfolio/blob/88ae0b25957de0aaaaa86dcd2a3d6bcf77e1bbc6/World%20Population/plots/1_japan_pop.png)<!-- -->
 
 ### 3.2. How did the population in different parts of the world change over time?
 
@@ -315,7 +315,7 @@ pop_and_country_long %>%
   facet_wrap(~ Region)
 ```
 
-![](world_population_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](https://github.com/sn2873/data_analytics_portfolio/blob/88ae0b25957de0aaaaa86dcd2a3d6bcf77e1bbc6/World%20Population/plots/2_pop_and_country_long.png)<!-- -->
 
 ### 3.3. Which country or countries have experienced the highest increase/decrease in population over time?
 
@@ -779,7 +779,7 @@ pop_and_country_long %>%
   facet_wrap(~ IncomeGroup)
 ```
 
-![](world_population_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
+![](https://github.com/sn2873/data_analytics_portfolio/blob/88ae0b25957de0aaaaa86dcd2a3d6bcf77e1bbc6/World%20Population/plots/3_income_group.png)<!-- -->
 
 ## 4. Findings
 
