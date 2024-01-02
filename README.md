@@ -16,6 +16,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - Skills: SQL, Spreadsheets, Tableau
 - [World Population](https://github.com/sn2873/data_analytics_portfolio/tree/e041d3ff9e39536c22971eae9bcd6e701c1812c6/World%20Population)
   - Skills: R
+- [Student Information Sheet](https://github.com/sn2873/data_analytics_portfolio/tree/a1056c7a76723dd56e35d4d5063103362b49186e/Student%20Information)
+  - Skills: Google Sheets  
     
 ## Tableau Vizzes
 - [Tableau Vizzes](https://public.tableau.com/app/profile/shay.n7588/vizzes)
