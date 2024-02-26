@@ -8,7 +8,7 @@ I've recently furthered my education in business and data analytics in Vancouver
 
 This is a repository to showcase skills, share projects and track my progress in data analytics-related topics.
 
-[My CV](https://github.com/sn2873/data_analytics_portfolio/blob/61f842baf494d1b50c9ce133e35c2adc03aaf530/Shay%20Nezaki%20CV.pdf)
+[My CV](https://github.com/sn2873/data_analytics_portfolio/blob/586604ae4eb9ae0291e49b62184dc0ace8857c79/Shay%20Nezaki%20CV.pdf)
 
 
 ## Projects
