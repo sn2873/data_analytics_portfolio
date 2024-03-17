@@ -17,7 +17,9 @@ This is a repository to showcase my skills, share projects and track my progress
 - [World Population](https://github.com/sn2873/data_analytics_portfolio/tree/e041d3ff9e39536c22971eae9bcd6e701c1812c6/World%20Population)
   - R
 - [Student Information Sheet](https://github.com/sn2873/data_analytics_portfolio/tree/a1056c7a76723dd56e35d4d5063103362b49186e/Student%20Information)
-  - Google Sheets  
+  - Google Sheets
+- [Global Inequality](https://github.com/sn2873/data_analytics_portfolio/blob/0df66597aeb339b95db7834f43e078513cd1f618/Global%20Inequality/global_inequality.ipynb)
+  - Python 
     
 ## Tableau Vizzes
 - [Tableau Vizzes](https://public.tableau.com/app/profile/shay.n7588/vizzes)
